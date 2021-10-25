@@ -1,0 +1,7 @@
+E:\kaspo\ubi\SampleCode\SampleCode\SampleCode\bin\Debug\SampleCode.exe.config
+E:\kaspo\ubi\SampleCode\SampleCode\SampleCode\bin\Debug\SampleCode.exe
+E:\kaspo\ubi\SampleCode\SampleCode\SampleCode\bin\Debug\SampleCode.pdb
+E:\kaspo\ubi\SampleCode\SampleCode\SampleCode\obj\Debug\SampleCode.csprojAssemblyReference.cache
+E:\kaspo\ubi\SampleCode\SampleCode\SampleCode\obj\Debug\SampleCode.csproj.CoreCompileInputs.cache
+E:\kaspo\ubi\SampleCode\SampleCode\SampleCode\obj\Debug\SampleCode.exe
+E:\kaspo\ubi\SampleCode\SampleCode\SampleCode\obj\Debug\SampleCode.pdb
